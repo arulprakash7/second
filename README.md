@@ -1,2 +1,0 @@
-# second
-IOT PROJECT
